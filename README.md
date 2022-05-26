@@ -1,5 +1,7 @@
 #*.exe hosted on itch.io - https://ryslin.itch.io/dont-go-game-jam-game
 
+#Created with Unity C#
+
 #*Gameplay*
 
 #	Two paddles are controlled independently (WASD and IJKL keys) by one or two players. 
